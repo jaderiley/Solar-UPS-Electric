@@ -213,6 +213,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Get a solar quote.",
     contactLead:  "Tell us your current usage or what you want to power through load-shedding. We will design a system and come back with a quote.",
-    contactPlaceholder: "e.g. 3-bedroom house, want to cover lights, fridge and TV through load-shedding"
+    contactPlaceholder: "e.g. 3-bedroom house, want to cover lights, fridge and TV through load-shedding",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Power problems <em>right now?</em>",
+    ctaBannerSub:   "One call and a qualified electrician is on the way."
   }
 };
